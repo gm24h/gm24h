@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-เข้าสู่ GM24H [<h1>เว็บบาคาร่าออนไลน์</h1>](https://pages.github.com/)
-[GitHub Pages](https://pages.github.com/)
+เข้าสู่ GM24H [<h1>เว็บบาคาร่าออนไลน์</h1>](https://gm24h.com/)
+[GitHub Pages](https://gm24h.com/)
 ![image](https://user-images.githubusercontent.com/113914695/191908734-94f7a53e-f276-4641-8500-fe09d0a42c23.png)
